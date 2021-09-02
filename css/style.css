@@ -1,0 +1,15 @@
+.container-body {
+background-image: url("../img/bg-background.jpg");
+/* Full height */
+height: 100%;
+/* Center and scale the image nicely */
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+
+#header {
+    font-family: 'Righteous', cursive;
+    font-size: 3rem;
+  }
